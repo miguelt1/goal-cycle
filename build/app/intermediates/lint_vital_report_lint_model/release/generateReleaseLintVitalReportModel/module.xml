@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/mt/Desktop/stronglio-webapp/app/flutter_application_1/objetivos_app/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.7.0"
+    buildFolder="/home/mt/Desktop/stronglio-webapp/app/flutter_application_1/objetivos_app/build/app"
+    bootClassPath="/home/mt/Android/sdk/platforms/android-35/android.jar:/home/mt/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
